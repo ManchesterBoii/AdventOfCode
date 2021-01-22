@@ -37,7 +37,7 @@ object Main{
 
     }
 
-
+// https://stackoverflow.com/questions/14613995/whats-scalas-idiomatic-way-to-split-a-list-by-separator
 
     def splitBySeparator[T](list: List[T], sep: T): List[List[T]] = 
     {
