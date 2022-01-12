@@ -1,0 +1,49 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch day3",
+      "request": "launch",
+      "mainClass": "day3",
+      "projectName": "2021_c4a928b5"
+    },
+    {
+      "type": "java",
+      "name": "Launch day2",
+      "request": "launch",
+      "mainClass": "day2",
+      "projectName": "2021_c4a928b5"
+    },
+    {
+      "type": "java",
+      "name": "Launch day1",
+      "request": "launch",
+      "mainClass": "day1",
+      "projectName": "2021_c4a928b5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/NziaYotchoum/OneDrive - West Point/Desktop/Company Docs/Random_Code/AdventOfCode/2021",
+      "environment": [],
+      "program": "c:/Users/NziaYotchoum/OneDrive - West Point/Desktop/Company Docs/Random_Code/AdventOfCode/2021/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
